@@ -1,10 +1,8 @@
-<div style="text-align: center; font-size: 36px; font-weight: bold;">
-  <img src="assets/BullsParkingImage.svg" width="60" /> Bulls Parking Finder
-</div>
+# <img src="assets/BullsParkingImage.svg" width="60" /> Bulls Parking Finder
 
 ### Home Page
 
-![Demo Video](assets/HomePage.mp4)
+![Demo Video](https://github.com/JimmyWu7/BullsParkingFinder/blob/main/assets/HomePage.mp4)
 
 #### Sign Up Page
 
@@ -16,7 +14,7 @@
 
 ### Capacity Survey Feature Demo
 
-![Demo Video](assets/CapacitySurvey.mp4)
+![Demo Video](https://github.com/JimmyWu7/BullsParkingFinder/blob/main/assets/CapacitySurvey.mp4)
 
 ### Settings Demo
 
