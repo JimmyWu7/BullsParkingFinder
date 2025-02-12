@@ -78,3 +78,7 @@ The **Settings** section lets users personalize their experience on Bulls Parkin
   - Options to turn on/off notifications for full capacity parking lots.
 
 https://github.com/user-attachments/assets/8b7d745d-17f4-4138-b02d-627cf65818d9
+
+
+### Conclusion
+Thank you for exploring **Bulls Parking Finder**! This project showcases the features and functionalities of the platform designed to make parking at UB campus more accessible.
