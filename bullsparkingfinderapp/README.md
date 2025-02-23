@@ -11,6 +11,12 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Login Page: [http://localhost:3000/#/login](http://localhost:3000/#/login)
+
+SignUp Page: [http://localhost:3000/#/register](http://localhost:3000/#/register)
+
+Dashboard Page: [http://localhost:3000/#/dashboard](http://localhost:3000/#/dashboard)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
