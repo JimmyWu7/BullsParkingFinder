@@ -1,6 +1,6 @@
 # <img src="assets/BullsParkingImage.svg" width="60" /> Bulls Parking Finder
 
-Welcome to **Bulls Parking Finder**, a platform for finding available parking spots quickly and easily at UB campus! (Private class repo due to credentials)
+Welcome to **Bulls Parking Finder**, a platform for finding available parking spots quickly and easily at UB campus! (Private class repo due to credentials, pushed **ONLY** frontend design)
 
 The following demo videos and screenshots will guide you through the key features of the website that I have designed.
 
@@ -79,6 +79,6 @@ The **Settings** section lets users personalize their experience on Bulls Parkin
 
 https://github.com/user-attachments/assets/8b7d745d-17f4-4138-b02d-627cf65818d9
 
-
 ### Conclusion
+
 Thank you for exploring **Bulls Parking Finder**! This project showcases the features and functionalities of the platform designed to make parking at UB campus more accessible.
